@@ -43,7 +43,7 @@ docker pull mostafaelgamal/my-go-app
 
 Docker Hub link:
 
-[https://hub.docker.com/r/mostafaelgamal/my-go-app](https://hub.docker.com/r/mostafaelgamal/my-go-app)
+[https://hub.docker.com/r/mostafaelgamal/my-go-app]([https://hub.docker.com/r/mostafaelgamal/my-go-app](https://hub.docker.com/repository/registry-1.docker.io/mostafaelgamal/my-go-app/general))
 
 ---
 
